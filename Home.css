@@ -1,0 +1,82 @@
+/* Header */
+
+header {
+  background-color: rgb(97, 14, 14);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: underline;
+ 
+}
+
+/* Coffee Image */
+
+.java img {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.description{
+
+border:2px, solid black;
+
+padding: 10px;
+
+
+
+}
+
+h2{
+  background-color: #8c460c;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h3{
+font-size: larger;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: rgb(140, 70, 12);
+border-radius: 10px;
+text-align:center;
+
+}
+.hours, tr, th, td{
+
+border: 1px, solid black;
+
+}
+
+
+
+footer {
+  background-color: darkgoldenrod;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+nav{
+
+    background-color: rgb(140, 70, 12);
+    color: white;
+    text-align: center;
+}
+nav a{
+
+    color:white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+color: white
+}
+
+.video{
+padding: 10px;
+
+}

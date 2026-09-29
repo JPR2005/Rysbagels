@@ -102,6 +102,22 @@ form h2{
   color: black;
   margin-top:0;
   text-align:left;
+  background-color: darkgoldenrod;
+  padding:0px;
+}
+
+input{
+  width: 100%;
+  padding:10px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+input:focus {
+  outline: none;
+  border-color:darkgoldenrod;
 }
 
 
